@@ -1,3 +1,7 @@
-node_modules
-dist
-.parcel-cache
+*
+!src
+!index
+!gitignore
+!index.html
+!package.lock.json
+!package.json
